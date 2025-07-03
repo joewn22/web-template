@@ -1,3 +1,3 @@
-# JoanCo
+# Web Template
 
-JoanCo is a digital consultancy focused on building modern, sustainable software solutions for organizations that value long-term impact.
+This is a remix run, typescript template for starting new projects. 
